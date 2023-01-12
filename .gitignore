@@ -1,0 +1,6 @@
+/target
+.idea
+test.png
+memo.txt
+/dll/*
+/lib/*
